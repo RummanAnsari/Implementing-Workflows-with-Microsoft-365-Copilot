@@ -1,1 +1,134 @@
+# Project Instructions: Addressing Critical Supply Chain Issues
 
+The initial documentation for Tasks 1-3 can be found in the provided .zip files under the Downloads tab. The work completed in Tasks 1-3 will inform the deliverables for the final two tasks.
+
+---
+
+# Task 1: Problem Identification and Action Prioritization
+
+## Email Analysis
+
+Use Copilot in Outlook to analyze and summarize the provided email, "Immediate Attention Required: Critical Supply Chain Issues Impacting FDA Compliance.docx."
+
+Focus on distilling the key information into actionable insights.
+
+Copy and paste the email content into a new email draft to simulate the summarization process.
+
+The summary should identify at least:
+
+- Three critical issues
+- Five actionable next steps
+
+---
+
+## Report Generation
+
+Use Copilot in Word to create a "Supply Chain Issues Review" document.
+
+This report should be professionally formatted with consistent fonts and layout and include the following sections:
+
+- Introduction
+- Outline of the Business Problem
+- Action Items
+- Conclusion
+
+---
+
+# Task 2: Cross-Functional Meeting Coordination and Action Planning
+
+## Meeting Scheduling
+
+Use Copilot in Outlook to generate and send a meeting invite for a meeting titled:
+
+"Supply Chain Issues Review"
+
+The invite must include a clear agenda.
+
+Invite relevant (fictitious) stakeholders.
+
+> Note: These are simulated stakeholders and do not need to be real email addresses.
+
+---
+
+## Meeting Documentation and Action Plan
+
+Use Copilot in Teams to summarize the provided:
+
+"Teams Transcript: Addressing Critical Supply Chain Issues"
+
+in the context of the meeting agenda.
+
+Then, use Copilot in Word to generate an Action Plan based on this summary.
+
+The Action Plan must include the following sections:
+
+- General Strategies
+- Immediate Actions
+- Short-Term Actions (1-3 weeks)
+- Ongoing Actions
+
+---
+
+# Task 3: Supply Chain Risk Analysis and Mitigation Strategies
+
+## Data Analysis
+
+Use Copilot in Excel to analyze the data within:
+
+"Supply Chain Report.xlsx"
+
+Focus on generating the following insights:
+
+- Average delivery timeline by risk level
+- On-time delivery rate for delayed components (CARB123, BIND567, COAT890)
+- Supplier performance breakdown
+
+---
+
+## Risk Assessment Report
+
+Use Copilot in Word to generate a:
+
+"Supply Chain Issue Analysis Report"
+
+based on the Excel analysis.
+
+This report must include:
+
+- Executive Summary
+- Component Overview
+- Implications for Compliance
+- Root Cause Analysis
+- Mitigation Strategies (General and Component-Specific)
+
+To help you get started, we have included:
+
+"Supply Chain Issue Template.docx"
+
+in the Task 3 zip file.
+
+This document contains a sample Copilot prompt and report structure that you can reference when creating your Supply Chain Issue Analysis Report.
+
+You do not need to follow it exactly to pass the project, but it can serve as a helpful starting point.
+
+---
+
+# Task 4: Stakeholder Report Creation and Presentation
+
+## Presentation Development
+
+Use Copilot in PowerPoint to generate a:
+
+"Supply Chain Issue Compliance Report"
+
+presentation.
+
+The content must accurately reflect the information in:
+
+- "Supply Chain Issue Analysis Report.docx"
+- "Supply Chain Report.xlsx"
+
+Ensure the presentation includes:
+
+- Professional design (consistently formatted)
+- Speaker notes
